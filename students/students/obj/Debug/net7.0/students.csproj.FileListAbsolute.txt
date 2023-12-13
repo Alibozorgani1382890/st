@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\students\students\obj\Debug\net7.0\students.Form1.resources
+C:\Users\Asus\Desktop\students\students\obj\Debug\net7.0\students.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\students\students\obj\Debug\net7.0\students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\students\students\obj\Debug\net7.0\students.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\students\students\obj\Debug\net7.0\students.AssemblyInfo.cs
+C:\Users\Asus\Desktop\students\students\obj\Debug\net7.0\students.csproj.CoreCompileInputs.cache
